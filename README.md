@@ -1,5 +1,6 @@
 # enigma
 An enigma emulator based on linux tools
+This application was made as a part of a school project
 
 Manual in serbian:
 Dobro dosli, ovaj program se iskljucivo moze koristiti u komandnoj liniji (CMD)
